@@ -37,7 +37,10 @@ body{
     align-items: center;
     justify-content: center;   
     font-family:Verdana; 
-    font-size: 50px;
+    font-size: 30px;
+    color: #e8ebe8;
+    border-color: #141a12;
+    
 
 
 }
